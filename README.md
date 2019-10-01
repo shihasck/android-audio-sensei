@@ -132,7 +132,7 @@ AudioSenseiListObserver.getInstance().registerLifecycle(getLifecycle());
 
 ## Add custom layout
 
-If you want to add you owm custom design (i encourage you to do so), you just need to provide your 
+If you want to add your own custom design (i encourage you to do so), you just need to provide your 
 layout file via the attribute `app:custom_layout="@layout/custom_player"`
 
 ```xml
